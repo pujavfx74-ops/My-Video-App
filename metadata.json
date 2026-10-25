@@ -1,0 +1,8 @@
+{
+  "name": "Remix My Video App",
+  "description": "A high-performance modern web video player to choose, preview, and play local video files and streams with advanced playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
